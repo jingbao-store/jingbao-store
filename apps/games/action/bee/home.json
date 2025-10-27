@@ -5,13 +5,12 @@
   "version": "1.0.0",
   "description": "经典的小蜜蜂射击游戏，专为智能眼镜优化。通过触摸板控制移动，支持手柄操作，体验复古街机的乐趣。",
   "category": "action",
-  "icon": "https://forum.rokid.com/uploads/default/optimized/1X/bee_icon.png",
+  "icon": "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/games/action/bee/icon.png",
   "screenshots": [
-    "https://forum.rokid.com/uploads/default/optimized/1X/bee_screenshot1.png",
-    "https://forum.rokid.com/uploads/default/optimized/1X/bee_screenshot2.png"
+    "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/games/action/bee/screenshot.jpg"
   ],
   "packageName": "com.rokid.bee.game",
-  "downloadUrl": "https://github.com/jingbao-store/jingbao-store/releases/download/v1.0.0/rokid-bee-game.apk",
+  "downloadUrl": "https://github.com/jingbao-store/rokid-bee-game/releases/download/v1.0.0/rokid-bee-game.apk",
   "fileSize": "13 MB",
   "fileSizeBytes": 13631488,
   "developer": "Rokid Community",
