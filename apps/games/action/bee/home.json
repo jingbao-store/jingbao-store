@@ -11,9 +11,9 @@
     "https://forum.rokid.com/uploads/default/optimized/1X/bee_screenshot2.png"
   ],
   "packageName": "com.rokid.bee.game",
-  "downloadUrl": "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/games/action/bee/rokid-bee-game.apk",
-  "localPath": "apps/games/action/bee/rokid-bee-game.apk",
-  "fileSize": "14 MB",
+  "downloadUrl": "https://github.com/jingbao-store/jingbao-store/releases/download/v1.0.0/rokid-bee-game.apk",
+  "fileSize": "13 MB",
+  "fileSizeBytes": 13631488,
   "developer": "Rokid Community",
   "sourceUrl": "https://forum.rokid.com/post/detail/2200",
   "rating": 4.0,
