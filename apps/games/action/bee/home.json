@@ -1,7 +1,7 @@
 {
-  "id": "com.rokid.bee.game",
+  "id": "com.risenav.rokid.beegame",
   "name": "小蜜蜂",
-  "displayName": "小蜜蜂游戏",
+  "displayName": "小蜜蜂",
   "version": "1.2.0",
   "description": "经典的小蜜蜂射击游戏，专为智能眼镜优化。通过触摸板控制移动，支持手柄操作，体验复古街机的乐趣。",
   "category": "action",
@@ -9,35 +9,18 @@
   "screenshots": [
     "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/games/action/bee/screenshot.jpg"
   ],
-  "packageName": "com.rokid.bee.game",
-  "downloadUrl": "https://gitee.com/jingbao-store/rokid-bee-game/releases/download/v1.2.0/rokid-bee-game.apk",
-  "fileSize": "13 MB",
-  "fileSizeBytes": 13631488,
-  "developer": "Rokid Community",
+  "packageName": "com.risenav.rokid.beegame",
+  "downloadUrl": "https://gitee.com/jingbao-store/rokid-bee-game/releases/download/v1.3.0/rokid-bee-game-v1.3.0.apk",
+  "fileSize": "11 MB",
+  "fileSizeBytes": 11534336,
+  "developer": "本田小狼🐟我",
   "sourceUrl": "https://forum.rokid.com/post/detail/2200",
   "rating": 4.0,
   "downloads": 0,
-  "lastUpdated": "2025-10-27",
-  "minAndroidVersion": "7.0",
-  "permissions": [
-    "网络访问",
-    "存储"
-  ],
-  "features": [
-    "经典街机玩法",
-    "手柄操作支持",
-    "复古像素风格",
-    "适配智能眼镜"
-  ],
-  "controls": [
-    "触摸板：控制飞船左右移动",
-    "手柄/触摸：发射子弹"
-  ],
-  "tags": [
-    "射击",
-    "街机",
-    "复古",
-    "单人游戏"
-  ]
+  "lastUpdated": "2025-10-29",
+  "minAndroidVersion": "9.0",
+  "permissions": [],
+  "features": ["经典街机玩法", "手柄操作支持", "复古像素风格", "适配智能眼镜"],
+  "controls": ["触摸板：控制飞船左右移动", "手柄/触摸：发射子弹"],
+  "tags": ["射击", "街机", "复古", "单人游戏"]
 }
-
