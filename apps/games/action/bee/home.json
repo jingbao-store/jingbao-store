@@ -2,7 +2,7 @@
   "id": "com.risenav.rokid.beegame",
   "name": "小蜜蜂",
   "displayName": "小蜜蜂",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "经典的小蜜蜂射击游戏，专为智能眼镜优化。通过触摸板控制移动，支持手柄操作，体验复古街机的乐趣。",
   "category": "action",
   "icon": "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/games/action/bee/icon.png",
