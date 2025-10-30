@@ -9,13 +9,16 @@ jingbao-store/
 ├── apps/               # 应用列表目录
 │   ├── games/          # 游戏分类
 │   └── applications/   # 应用分类
+├── app-update.json     # 镜宝应用商店更新配置
+├── UPDATE_CONFIG_GUIDE.md  # 更新配置指南
 ├── README.md           # 本文件
 └── LICENSE             # 许可证
 ```
 
 ## 使用说明
 
-详细的应用管理说明请参见 [apps/README.md](./apps/README.md)。
+- **应用管理**：详细的应用管理说明请参见 [apps/README.md](./apps/README.md)
+- **更新配置**：镜宝应用商店的版本更新配置说明请参见 [UPDATE_CONFIG_GUIDE.md](./UPDATE_CONFIG_GUIDE.md)
 
 ## 贡献指南
 
