@@ -1,21 +1,19 @@
 {
   "appId": "com.jingbao.store",
-  "latestVersion": "1.0.0",
-  "versionCode": 1,
-  "versionName": "1.0.0",
+  "latestVersion": "1.2.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "updateTime": "2025-10-30",
-  "downloadUrl": "https://gitee.com/jingbao-store/jingbao-store/releases/download/v1.0.0/jingbao-store-v1.0.0.apk",
-  "fileSize": "15 MB",
-  "fileSizeBytes": 15728640,
+  "downloadUrl": "https://gitee.com/jingbao-store/jingbao-store/releases/download/v1.2.0/jingbao-store-v1.2.0.apk",
+  "fileSize": "7.2M",
+  "fileSizeBytes": 7558604,
   "minAndroidVersion": "7.0",
   "releaseNotes": [
-    "镜宝应用商店首个正式版本",
-    "支持游戏和应用分类浏览",
-    "支持应用详情查看和下载",
-    "支持自定义APK安装",
-    "支持多源切换"
+    "新增自动更新功能",
+    "优化应用启动速度",
+    "改进界面交互体验",
+    "修复已知问题"
   ],
   "forceUpdate": false,
-  "changelog": "v1.0.0\n- 首个正式版本发布\n- 完整的应用商店功能"
+  "changelog": "v1.2.0\n- 新增自动更新功能\n- 优化应用启动速度\n- 改进界面交互体验\n- 修复已知问题"
 }
-
