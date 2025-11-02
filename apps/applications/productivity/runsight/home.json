@@ -1,0 +1,44 @@
+{
+  "id": "com.mouzhi.runsight",
+  "name": "RunSight",
+  "displayName": "RunSight",
+  "version": "1.1.1",
+  "description": "连接佳明（Garmin）手表，通过蓝牙低功耗实时获取并显示心率、配速、步频等运动数据，适配智能眼镜，支持亮度调节与双页面切换。",
+  "category": "productivity",
+  "icon": "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/productivity/runsight/icon.svg",
+  "screenshots": [
+    "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/productivity/runsight/screenshot.jpeg"
+  ],
+  "packageName": "com.mouzhi.runsight",
+  "downloadUrl": "https://gitee.com/jingbao-store/Runsight/releases/download/v1.1.1/runsight-v1.1.1.apk",
+  "fileSize": "44 MB",
+  "developer": "某只",
+  "sourceUrl": "https://github.com/mouzhi/Runsight",
+  "rating": 4.6,
+  "downloads": 0,
+  "lastUpdated": "2025-11-02",
+  "minAndroidVersion": "12.0",
+  "permissions": [
+    "BLUETOOTH",
+    "BLUETOOTH_ADMIN",
+    "BLUETOOTH_CONNECT",
+    "BLUETOOTH_SCAN",
+    "ACCESS_FINE_LOCATION",
+    "ACCESS_COARSE_LOCATION",
+    "WRITE_SETTINGS"
+  ],
+  "features": [
+    "蓝牙设备扫描与连接（Garmin）",
+    "实时心率/配速/步频/距离显示",
+    "基于标准BLE服务（RSC/HRM）",
+    "双页面模式（主界面/数据界面）",
+    "屏幕亮度快捷调节",
+    "适配智能眼镜界面"
+  ],
+  "controls": [
+    "确认键：切换主页面与数据页面",
+    "左方向键：降低屏幕亮度",
+    "右方向键：提高屏幕亮度"
+  ],
+  "tags": ["效率", "运动", "蓝牙", "Garmin", "智能眼镜"]
+}
