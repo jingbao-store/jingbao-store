@@ -1,5 +1,5 @@
 {
   "category": "utilities",
   "displayName": "工具",
-  "apps": ["jingbao-helper/home.json"]
+  "apps": ["jingbao-helper/home.json", "photodel/home.json"]
 }

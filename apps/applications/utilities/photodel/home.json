@@ -1,0 +1,39 @@
+{
+  "id": "com.osagem.photoview4rokidglasses",
+  "name": "照片删除",
+  "displayName": "照片删除",
+  "version": "0.1.7",
+  "description": "在 Rokid 智能眼镜上浏览与删除照片/视频；支持触控手势操作与删除二次确认，可调用相机应用进行拍摄并保存。",
+  "category": "utilities",
+  "icon": "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/utilities/photodel/icon.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/utilities/photodel/screenshot1.jpg",
+    "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/utilities/photodel/screenshot2.jpg"
+  ],
+  "packageName": "com.osagem.photoview4rokidglasses",
+  "downloadUrl": "https://gitee.com/jingbao-store/photoView4rokidglasses/releases/download/v0.1.6/photodel-v0.1.6.apk",
+  "developer": "osagem",
+  "rating": 0,
+  "downloads": 0,
+  "lastUpdated": "2025-11-02",
+  "minAndroidVersion": "9.0",
+  "permissions": [
+    "READ_MEDIA_IMAGES",
+    "READ_MEDIA_VIDEO",
+    "ACCESS_MEDIA_LOCATION",
+    "READ_EXTERNAL_STORAGE",
+    "WRITE_EXTERNAL_STORAGE"
+  ],
+  "features": [
+    "在 Rokid 智能眼镜上浏览照片与视频",
+    "支持删除并二次确认",
+    "触控手势操作（前后滑动选择、单击确认）",
+    "可调用相机应用拍摄与保存"
+  ],
+  "controls": [
+    "前后滑动：切换‘进入/退出’或‘下一张/删除/返回’",
+    "单击：确认当前选项或执行操作",
+    "上滑：查看下一张照片"
+  ],
+  "tags": ["工具", "相册", "照片", "视频", "删除", "Rokid", "智能眼镜"]
+}
