@@ -1,0 +1,33 @@
+{
+  "id": "com.jingbao.helper",
+  "name": "镜宝助手",
+  "displayName": "镜宝助手",
+  "version": "1.0.0",
+  "description": "系统快捷助手：Wi‑Fi、蓝牙、按键音切换与系统设置入口，适配智能眼镜。",
+  "category": "utilities",
+  "icon": "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/utilities/jingbao-helper/icon.png",
+  "screenshots": [
+    "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/utilities/jingbao-helper/screenshot1.jpg",
+    "https://raw.githubusercontent.com/jingbao-store/jingbao-store/main/apps/applications/utilities/jingbao-helper/screenshot2.jpg"
+  ],
+  "packageName": "com.jingbao.helper",
+  "downloadUrl": "https://gitee.com/jingbao-store/helper/releases/download/v1.0.0/jingbao-helper-v1.0.0.apk",
+  "fileSize": "11 MB",
+  "fileSizeBytes": 11515041,
+  "developer": "镜宝",
+  "sourceUrl": "https://gitee.com/jingbao-store/jingbao-sys",
+  "rating": 4.5,
+  "downloads": 0,
+  "lastUpdated": "2025-11-01",
+  "minAndroidVersion": "9.0",
+  "permissions": [
+    "ACCESS_WIFI_STATE",
+    "CHANGE_WIFI_STATE",
+    "ACCESS_NETWORK_STATE",
+    "BLUETOOTH_CONNECT",
+    "WRITE_SETTINGS"
+  ],
+  "features": ["Wi‑Fi 快捷入口", "蓝牙快捷入口", "按键音开关", "系统设置入口"],
+  "controls": ["触摸板/点击：操作按钮"],
+  "tags": ["工具", "系统", "设置"]
+}

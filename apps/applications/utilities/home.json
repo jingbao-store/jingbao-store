@@ -1,6 +1,5 @@
 {
   "category": "utilities",
   "displayName": "工具",
-  "apps": []
+  "apps": ["jingbao-helper/home.json"]
 }
-
