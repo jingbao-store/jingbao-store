@@ -1,12 +1,12 @@
 {
   "appId": "com.jingbao.store",
-  "latestVersion": "1.2.0",
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "updateTime": "2025-10-30",
-  "downloadUrl": "https://gitee.com/jingbao-store/jingbao-store/releases/download/v1.2.0/jingbao-store-v1.2.0.apk",
+  "latestVersion": "1.2.1",
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "updateTime": "2025-11-05",
+  "downloadUrl": "https://gitee.com/jingbao-store/jingbao-store/releases/download/v1.2.1/jingbao-store-v1.2.1.apk",
   "fileSize": "7.2M",
-  "fileSizeBytes": 7558604,
+  "fileSizeBytes": 7575224,
   "minAndroidVersion": "7.0",
   "releaseNotes": [
     "新增自动更新功能",
